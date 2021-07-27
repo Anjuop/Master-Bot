@@ -2,7 +2,7 @@
 and set as own profile.
 Syntax: .clone @username"""
 #Copy That Plugin by @ViperAdnan
-#modified by @LEGENDX22
+#modified by @MASTERBOT22
 #Give credit if you are going to kang it.
 
 import html
